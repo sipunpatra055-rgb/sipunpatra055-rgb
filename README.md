@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analytics Fresher | Turning raw data into strategic decisions. Proficient in SQL, advanced Excel (XLOOKUP, Pivot Tables), and EDA. Always exploring new datasets.
+Data Analytics Fresher | Turning raw data into strategic decisions. Proficient in SQL, advanced Excel (XLOOKUP, Pivot Tables), and EDA. Always exploring new datasets.Interactive dashboard making using POWER BI to make business decision.
 
 
 ## 🌐 Socials:
