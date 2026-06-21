@@ -1,9 +1,12 @@
 # 💫 About Me:
-Aspiring Data Analyst<br><br>Welcome to my GitHub! I am a detail-oriented Data Analyst focused on extracting meaningful narratives from complex datasets. I enjoy building structured queries, performing deep-dive Exploratory Data Analysis (EDA), and designing dashboards that drive decision-making.
+Data Analytics Fresher | Turning raw data into strategic decisions. Proficient in SQL, advanced Excel (XLOOKUP, Pivot Tables), and EDA. Always exploring new datasets.
 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sipun-patra-042b3a414/) 
 
 # 💻 Tech Stack:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sipunpatra055-rgb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sipunpatra055-rgb&theme=dark&hide_border=false)<br/>
